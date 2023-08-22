@@ -12,8 +12,6 @@ A programação orientada a objetos é um paradigma fundamental na engenharia de
 
 - **Projeto Prático:** Um projeto prático abrangente que aplica os conceitos aprendidos em um contexto real. Isso incluirá o design de classes, a implementação de funcionalidades e a demonstração de boas práticas de programação.
 
-- **Recursos Adicionais:** Uma lista de livros, tutoriais em vídeo, artigos e links para recursos externos que podem enriquecer ainda mais seu aprendizado em Java e POO.
-
 ## Como Utilizar
 
 Sinta-se à vontade para explorar o conteúdo deste repositório da maneira que melhor se adequar ao seu estilo de aprendizado:
